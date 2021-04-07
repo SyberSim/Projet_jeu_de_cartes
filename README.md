@@ -1,2 +1,2 @@
-# Projet_jeu_de_cartes
-Un jeu de cartes classique
+# Projet_Solitaire
+Un jeu de Solitaire classique
